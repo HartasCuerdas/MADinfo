@@ -5,19 +5,19 @@
     <snippets>
       <snippet>
         <title>Aug 28</title>
-        <content>youtube-dl -x --audio-format mp3 -o " 2013/08/28/parte-%(playlist_index)s.%(ext)s" https://www.youtube.com/playlist?list=PLqJau3BSAcCosL-wJIW4YRaQgHnqmqu9K</content>
+        <content>youtube-dl -x --audio-format mp3 -o "2013/08/28/parte-%(playlist_index)s.%(ext)s" https://www.youtube.com/playlist?list=PLqJau3BSAcCosL-wJIW4YRaQgHnqmqu9K</content>
       </snippet>
       <snippet>
         <title>Aug 21</title>
-        <content>youtube-dl -x --audio-format mp3 -o " 2013/08/21/parte-%(playlist_index)s.%(ext)s" https://www.youtube.com/playlist?list=PLqJau3BSAcCqfHdeD9SueQklWosn13wNi</content>
+        <content>youtube-dl -x --audio-format mp3 -o "2013/08/21/parte-%(playlist_index)s.%(ext)s" https://www.youtube.com/playlist?list=PLqJau3BSAcCqfHdeD9SueQklWosn13wNi</content>
       </snippet>
       <snippet>
         <title>Aug 14</title>
-        <content>youtube-dl -x --audio-format mp3 -o " 2013/08/14/parte-%(playlist_index)s.%(ext)s" https://www.youtube.com/playlist?list=PLqJau3BSAcCryHpBs0Tg5hfpXVgvYFIm_</content>
+        <content>youtube-dl -x --audio-format mp3 -o "2013/08/14/parte-%(playlist_index)s.%(ext)s" https://www.youtube.com/playlist?list=PLqJau3BSAcCryHpBs0Tg5hfpXVgvYFIm_</content>
       </snippet>
       <snippet>
         <title>Aug 07</title>
-        <content>youtube-dl -x --audio-format mp3 -o " 2013/08/07/parte-%(playlist_index)s.%(ext)s" https://www.youtube.com/playlist?list=PLqJau3BSAcCqGlSPv_VNUBP72hH-NB0VL</content>
+        <content>youtube-dl -x --audio-format mp3 -o "2013/08/07/parte-%(playlist_index)s.%(ext)s" https://www.youtube.com/playlist?list=PLqJau3BSAcCqGlSPv_VNUBP72hH-NB0VL</content>
       </snippet>
     </snippets>
   </folder>
