@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<folders>
+  <folder>
+    <title>yt-dl Dec</title>
+    <snippets>
+      <snippet>
+        <title>Dec 18</title>
+        <content>youtube-dl -x --audio-format mp3 -o " 2013/12/18/parte-%(playlist_index)s.%(ext)s" https://www.youtube.com/playlist?list=PLqJau3BSAcCrITZKgDj4JPMbfcRGTynKX</content>
+      </snippet>
+      <snippet>
+        <title>Dec 11</title>
+        <content>youtube-dl -x --audio-format mp3 -o " 2013/12/11/parte-%(playlist_index)s.%(ext)s" https://www.youtube.com/playlist?list=PLqJau3BSAcCqTuHEHmI_DLqHB_d-hwxyX</content>
+      </snippet>
+      <snippet>
+        <title>Dec 01</title>
+        <content>youtube-dl -x --audio-format mp3 -o " 2013/12/01/parte-%(playlist_index)s.%(ext)s" https://www.youtube.com/playlist?list=PLqJau3BSAcCq0b5AByZs8zAhWfX2yxfEy</content>
+      </snippet>
+    </snippets>
+  </folder>
+</folders>
+

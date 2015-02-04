@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<folders>
+  <folder>
+    <title>yt-dl Nov</title>
+    <snippets>
+      <snippet>
+        <title>Nov 28</title>
+        <content>youtube-dl -x --audio-format mp3 -o " 2013/11/28/parte-%(playlist_index)s.%(ext)s" https://www.youtube.com/playlist?list=PLqJau3BSAcCpcVTSgS1UiHj9gLS5lPtHr</content>
+      </snippet>
+      <snippet>
+        <title>Nov 14</title>
+        <content>youtube-dl -x --audio-format mp3 -o " 2013/11/14/parte-%(playlist_index)s.%(ext)s" https://www.youtube.com/playlist?list=PLqJau3BSAcCrrBF4XU0P5zBiiPvERmXFR</content>
+      </snippet>
+    </snippets>
+  </folder>
+</folders>
+

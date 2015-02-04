@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<folders>
+  <folder>
+    <title>yt-dl Jun</title>
+    <snippets>
+      <snippet>
+        <title>Jun 26</title>
+        <content>youtube-dl -x --audio-format mp3 -o " 2013/06/26/parte-%(playlist_index)s.%(ext)s" https://www.youtube.com/playlist?list=PLqJau3BSAcCpvxWN_1ZmlEMcU7E8A21Ci</content>
+      </snippet>
+      <snippet>
+        <title>Jun 19</title>
+        <content>youtube-dl -x --audio-format mp3 -o " 2013/06/19/parte-%(playlist_index)s.%(ext)s" https://www.youtube.com/playlist?list=PLqJau3BSAcCpqgS6C_BtrraxyoXmcza1N</content>
+      </snippet>
+      <snippet>
+        <title>Jun 12</title>
+        <content>youtube-dl -x --audio-format mp3 -o " 2013/06/12/parte-%(playlist_index)s.%(ext)s" https://www.youtube.com/playlist?list=PLqJau3BSAcCrzWq_atsb82ewF-GDqj1zG</content>
+      </snippet>
+      <snippet>
+        <title>Jun 05</title>
+        <content>youtube-dl -x --audio-format mp3 -o " 2013/06/05/parte-%(playlist_index)s.%(ext)s" https://www.youtube.com/playlist?list=PLqJau3BSAcCrY5n4ZMv_4qRIh0nsXBwiY</content>
+      </snippet>
+    </snippets>
+  </folder>
+</folders>
+

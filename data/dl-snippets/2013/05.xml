@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<folders>
+  <folder>
+    <title>yt-dl May</title>
+    <snippets>
+      <snippet>
+        <title>May 29</title>
+        <content>youtube-dl -x --audio-format mp3 -o " 2013/05/29/parte-%(playlist_index)s.%(ext)s" https://www.youtube.com/playlist?list=PLqJau3BSAcCqnoTEmxNxutCDmuYRkybR6</content>
+      </snippet>
+      <snippet>
+        <title>May 22</title>
+        <content>youtube-dl -x --audio-format mp3 -o " 2013/05/22/parte-%(playlist_index)s.%(ext)s" https://www.youtube.com/playlist?list=PLqJau3BSAcCoxiR9EW2EmXs2oG5YKQ6-w</content>
+      </snippet>
+      <snippet>
+        <title>May 15</title>
+        <content>youtube-dl -x --audio-format mp3 -o " 2013/05/15/parte-%(playlist_index)s.%(ext)s" https://www.youtube.com/playlist?list=PLqJau3BSAcCrE_jw5RaTns4kzlsl9mAhW</content>
+      </snippet>
+      <snippet>
+        <title>May 08</title>
+        <content>youtube-dl -x --audio-format mp3 -o " 2013/05/08/parte-%(playlist_index)s.%(ext)s" https://www.youtube.com/playlist?list=PLqJau3BSAcCpasTVSBpX95hNT539Rizqa</content>
+      </snippet>
+      <snippet>
+        <title>May 01</title>
+        <content>youtube-dl -x --audio-format mp3 -o " 2013/05/01/parte-%(playlist_index)s.%(ext)s" https://www.youtube.com/playlist?list=PLqJau3BSAcCq-0_NlnmxJ-CchYhObqoIX</content>
+      </snippet>
+    </snippets>
+  </folder>
+</folders>
+

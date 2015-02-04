@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<folders>
+  <folder>
+    <title>yt-dl Oct</title>
+    <snippets>
+      <snippet>
+        <title>Oct 30</title>
+        <content>youtube-dl -x --audio-format mp3 -o " 2013/10/30/parte-%(playlist_index)s.%(ext)s" https://www.youtube.com/playlist?list=PLqJau3BSAcCo0B97pXsRfr1hxEoxeFkGs</content>
+      </snippet>
+      <snippet>
+        <title>Oct 23</title>
+        <content>youtube-dl -x --audio-format mp3 -o " 2013/10/23/parte-%(playlist_index)s.%(ext)s" https://www.youtube.com/playlist?list=PLqJau3BSAcCoqghWizrHeGDkOtWH5TPOu</content>
+      </snippet>
+      <snippet>
+        <title>Oct 16</title>
+        <content>youtube-dl -x --audio-format mp3 -o " 2013/10/16/parte-%(playlist_index)s.%(ext)s" https://www.youtube.com/playlist?list=PLqJau3BSAcCoYBF_g46ad2yLVMz8zK6nq</content>
+      </snippet>
+      <snippet>
+        <title>Oct 09</title>
+        <content>youtube-dl -x --audio-format mp3 -o " 2013/10/09/parte-%(playlist_index)s.%(ext)s" https://www.youtube.com/playlist?list=PLqJau3BSAcCooYtZpMpJua72FB0JHrsOn</content>
+      </snippet>
+      <snippet>
+        <title>Oct 02</title>
+        <content>youtube-dl -x --audio-format mp3 -o " 2013/10/02/parte-%(playlist_index)s.%(ext)s" https://www.youtube.com/playlist?list=PLqJau3BSAcCqqC23kFlVaheqrTeLpXM33</content>
+      </snippet>
+    </snippets>
+  </folder>
+</folders>
+
