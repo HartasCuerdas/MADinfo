@@ -27,7 +27,7 @@ def process_xml(data, month)
       date = Date.strptime(dates[i].strip, '%m/%d/%Y')
       puts '      <snippet>'
       puts '        <title>' + date.strftime('%b %d') + '</title>'
-      puts '        <content>youtube-dl -x --audio-format mp3 -o " ' + date.strftime('%Y/%m/%d') + '/parte-%(playlist_index)s.%(ext)s" ' + youtube_playlists[i].strip + '</content>'
+      puts '        <content>youtube-dl -x --audio-format mp3 -o "' + date.strftime('%Y/%m/%d') + '/parte-%(playlist_index)s.%(ext)s" ' + youtube_playlists[i].strip + '</content>'
       puts '      </snippet>'
     end
   end
